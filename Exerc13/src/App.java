@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+// PROGRAMA QUE FAZ A LEITURA DE VÁRIOS NÚMEROS INTEIROS ATÉ QUE O NÚMERO SEJA NEGATIVO
+// E EM SEGUIDA APRESENTE O MAIOR E O MENOR NÚMERO LIDO
+
 public class App {
     public static void main(String[] args) throws Exception {
         
